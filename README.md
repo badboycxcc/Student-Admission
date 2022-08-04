@@ -1,6 +1,6 @@
 # Student-Admission CMS Sqlinjection
 
-### Sqlinjection Code
+## Sqlinjection location 1
 ![image](https://user-images.githubusercontent.com/72059221/182750831-21ba3a4b-d99f-484b-813f-0d175d044ce4.png)
 ![image](https://user-images.githubusercontent.com/72059221/182750900-d34a0889-3f8b-4a3b-85a7-fddb16385258.png)
 
@@ -34,6 +34,8 @@ web application technology: Apache 2.4.39, PHP 5.6.9
 back-end DBMS: MySQL >= 5.6
 ```
 
-#### Code Download
+## Sqlinjection location 2
+
+## Code Download
 
 https://www.sourcecodester.com/php/15514/online-admission-system-php-and-mysql.html
