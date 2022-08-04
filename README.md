@@ -1,6 +1,6 @@
 # Student-Admission CMS Sqlinjection
 
-## Sqlinjection location 1
+## Sqlinjection location 1  CVE-2022-2643
 ![image](https://user-images.githubusercontent.com/72059221/182750831-21ba3a4b-d99f-484b-813f-0d175d044ce4.png)
 ![image](https://user-images.githubusercontent.com/72059221/182750900-d34a0889-3f8b-4a3b-85a7-fddb16385258.png)
 
