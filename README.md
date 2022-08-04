@@ -1,18 +1,18 @@
-# Student-Admission
+# Student-Admission CMS Sqlinjection
 
-### Sqlinjection
+### Sqlinjection Code
 ![image](https://user-images.githubusercontent.com/72059221/182750831-21ba3a4b-d99f-484b-813f-0d175d044ce4.png)
 ![image](https://user-images.githubusercontent.com/72059221/182750900-d34a0889-3f8b-4a3b-85a7-fddb16385258.png)
 
 
 ![image](https://user-images.githubusercontent.com/72059221/182751071-f90c74c8-2632-4838-ac0d-a7cf4d0ebac0.png)
 
-#### 没有检查Shift变量内容    
+#### No Check Shift  
 
 ![image](https://user-images.githubusercontent.com/72059221/182751180-d03a9653-d4b1-4dfd-b0a9-d5535f98f6bf.png)
 
 
-#### Sqlmap
+#### Sqlmap Attack
 ![image](https://user-images.githubusercontent.com/72059221/182750935-56fa5112-fdcd-4bb5-ba7e-762cffaaf506.png)
 
 ```
