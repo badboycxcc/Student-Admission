@@ -23,3 +23,8 @@ Parameter: shift (POST)
 web application technology: Apache 2.4.39, PHP 5.6.9
 back-end DBMS: MySQL >= 5.6
 ```
+
+![image](https://user-images.githubusercontent.com/72059221/182751071-f90c74c8-2632-4838-ac0d-a7cf4d0ebac0.png)
+
+没有检查过滤
+![image](https://user-images.githubusercontent.com/72059221/182751180-d03a9653-d4b1-4dfd-b0a9-d5535f98f6bf.png)
